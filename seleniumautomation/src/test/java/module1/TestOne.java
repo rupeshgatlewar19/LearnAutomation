@@ -13,6 +13,7 @@ public class TestOne extends Module1Lib {
         System.out.println("This is method one");
         System.out.println(System.getProperty("url"));
         System.out.println(System.getProperty("environment"));
+	Assert.assertTrue(false);
     }
 
 }
