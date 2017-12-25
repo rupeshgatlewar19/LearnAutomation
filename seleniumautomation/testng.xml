@@ -4,7 +4,7 @@
 <suite name="SuiteOne">
     <test name="TestOne">
         <classes>
-            <class name="scripts.module1.TestOne">
+            <class name="module1.TestOne">
                 <methods>
                     <include name="methodOne"/>
                 </methods>
